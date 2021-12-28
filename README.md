@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 I'm [Fabrizzio Brandão][website]
+
+---
+
+<img align="left" alt="FabrizzioB Github Statistics" src="https://github-readme-stats.vercel.app/api?username=FabrizzioB&show_icons=true&theme=tokyonight&count_private=true" />
 
 <!--
 **FabrizzioB/FabrizzioB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Links -->
+[website]: https://www.linkedin.com/in/fabrizziobrandao/
