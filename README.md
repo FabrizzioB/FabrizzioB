@@ -2,7 +2,7 @@
 
 And I'm a Junior Software Engineer @ Decsis
 
-At the moment I'm working professionally with Python, Pandas and Web Frameworks.
+At the moment I'm working professionally with Python doing ETL and Web Development.
 
 You can check some of my projects on the side in this page.
 
