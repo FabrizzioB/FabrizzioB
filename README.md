@@ -1,12 +1,8 @@
-### 👋 Welcome to my personal GitHub I'm [Fabrizzio Brandão][website]
+###  Hey 👋, I'm [Fabrizzio Brandão][website]
 
-And I'm a Junior Software Engineer @ Decsis
+I'm a Junior Software Engineer.
 
-At the moment I'm working professionally with Python doing ETL and Web Development.
-
-You can check some of my projects on the side in this page.
-
-I try to maintain this page regularly.
+Check some of my projects here.
 
 
 <!-- Links -->
