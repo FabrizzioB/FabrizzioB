@@ -1,8 +1,6 @@
-###  Hey 👋, I'm [Fabrizzio Brandão][website]
+###  Hey 👋, I'm [Fabrizzio Brandão][website].
 
 I'm a Junior Software Engineer.
-
-Check some of my projects here.
 
 
 <!-- Links -->
