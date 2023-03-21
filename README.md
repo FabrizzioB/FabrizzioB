@@ -1,16 +1,14 @@
 ###  Hey 👋, I'm [Fabrizzio Brandão][website].
 
-### Some projects to pass the time
+[Personal GitHub Page][gitpage]
 
-Internship Notes
+### Check some of the projects that I'm working
 
-Vitor Baia Weather App
+[Personal GitHub Page Repository][gitpagerepo]
 
 [YouTube Downloader App with GUI (Python)][ytdownapp]
 
-Django Calculator App
 
-Live Trading Bot
 
 <!-- Links -->
 [website]: https://www.linkedin.com/in/fabrizziobrandao/
@@ -19,4 +17,5 @@ Live Trading Bot
 [vitorbaia_weather_app]:
 [django_calculator_app]:
 [live_trading_bot]: 
-
+[gitpagerepo]: https://github.com/FabrizzioB/fabrizziob.github.io
+[gitpage]: https://fabrizziob.github.io/
