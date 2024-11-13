@@ -1,25 +1,53 @@
-###  Hey 👋, I'm [Fabrizzio Brandão][website].
+<h2 align="center">Hey 👋, I'm <a href="https://www.linkedin.com/in/fabrizziobrandao/">Fabrizzio Brandão</a></h1>
 
-[Personal GitHub Page][gitpage]
+#### Statistics
 
-### Check some of the projects that I'm working
+<img alt="Fabrizzio's Github Language Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FabrizzioB&langs_count=4&theme=blue-green"/>
 
-[Personal GitHub Page Repository][gitpagerepo]
-
-[YouTube Downloader App with GUI (Python)][ytdownapp]
-
-[Store MPA][store-mpa]
+<img alt="Fabrizzio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FabrizzioB&show_icons=true&theme=blue-green&count_private=true"/>
 
 
+#### Links
 
+- [Personal GitHub Page][gitpage]
+
+- [Personal Website][website2]
+
+#### Projects (Working)
+
+- [Personal GitHub Page Repository][gitpagerepo]
+
+- [YouTube Downloader App with GUI (Python and kivy)][ytdownapp]
+
+- [Coffee Time Web App][coffeetime]
+
+- [Vagrantfiles][Vagrantfiles]
+
+- [Dockerfiles][Dockerfiles]
+
+- [Weather Portugal][WeatherPortugal]
+
+- [ETL Pipeline Automation][etlpipeline]
 
 <!-- Links -->
 [website]: https://www.linkedin.com/in/fabrizziobrandao/
-[ytdownapp]: https://github.com/FabrizzioB/YouTubeDownloaderApp/
-[internship_notes]:
-[vitorbaia_weather_app]:
-[django_calculator_app]:
-[live_trading_bot]: 
+
+[website2]: https://fabrizziob.github.io/
+
+[ytdownapp]: https://github.com/FabrizzioB/YoutabeDownloader
+
 [gitpagerepo]: https://github.com/FabrizzioB/fabrizziob.github.io
+
 [gitpage]: https://fabrizziob.github.io/
+
 [store-mpa]: https://github.com/FabrizzioB/Store-MPA
+
+[coffeetime]: https://github.com/FabrizzioB/CoffeeTime-WebApp
+
+[Vagrantfiles]: https://github.com/FabrizzioB/Vagrantfiles
+
+[Dockerfiles]: https://github.com/FabrizzioB/Dockerfiles
+
+[WeatherPortugal]: https://github.com/FabrizzioB/WeatherPortugal
+
+[etlpipeline]: https://github.com/FabrizzioB/ETL-Pipeline-Automation
